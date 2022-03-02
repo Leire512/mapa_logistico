@@ -25,7 +25,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "pais": "Chile",
-        "Ciudad": "Rancagua"
+        "ciudad": "Rancagua"
       },
       "geometry": {
         "type": "Point",
