@@ -4,34 +4,61 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f50000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "pais": "Chile",
-        "ciudad": "Santiago"
+        "empresa": "Avanti"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.65925598144531,
-          -33.43258740206331
+          -73.16644549369812,
+          -36.97194111008646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00f0c0",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "pais": "Chile",
-        "ciudad": "Rancagua"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#e66b6b",
+        "fill-opacity": 0.5
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -70.751953125,
-          -34.09815934521553
+          [
+            [
+              -73.12088012695312,
+              -36.61662990355664
+            ],
+            [
+              -73.157958984375,
+              -36.71136634281924
+            ],
+            [
+              -73.21563720703125,
+              -36.77739245078275
+            ],
+            [
+              -73.16207885742188,
+              -36.902685472989425
+            ],
+            [
+              -73.07693481445312,
+              -36.922449812399186
+            ],
+            [
+              -72.97531127929688,
+              -36.75649032950516
+            ],
+            [
+              -73.12088012695312,
+              -36.61662990355664
+            ]
+          ]
         ]
       }
     }
