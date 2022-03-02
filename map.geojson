@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#f50000","marker-size":"medium","marker-symbol":"","nombre":"sdfsdf"},"geometry":{"type":"Point","coordinates":[-70.65925598144531,-33.43258740206331]}},{"type":"Feature","properties":{"marker-color":"#00f0c0","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[-70.751953125,-34.09815934521553]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f50000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "pais": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65925598144531,
+          -33.43258740206331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f0c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "pais": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.751953125,
+          -34.09815934521553
+        ]
+      }
+    }
+  ]
+}
