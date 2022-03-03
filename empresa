@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "empresa": "Avanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16644549369812,
+          -36.97194111008646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "empresa": "Avanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71917286202991,
+          -33.32828981929858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "empresa": "Avanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62892465497497,
+          -35.42231416469348
+        ]
+      }
+    }
+  ]
+}
